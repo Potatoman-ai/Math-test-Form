@@ -15,7 +15,8 @@
     <input type="radio" name="Math" value="correct">
         8<br/>
     <input type="radio" name="Math" value="wrong">
-    18468463<br/>
+    18468463
+          <hr/>
           <p>What is &radic;4?</p>
           <input type="radio" name="&radic;" value="correct">
         2<br/>
@@ -24,7 +25,17 @@
     <input type="radio" name="&radic;" value="wrong">
         8<br/>
     <input type="radio" name="&radic;" value="wrong">
-    18468463<br/>
+    18468463
+          <hr/>
+          <p>What is 4000&divide;1 equal?</p>
+          <input type="radio" name="Division" value="correct">
+          4000<br/>
+          <input type="radio" name="Division" value="wrong">
+          -19283<br/>
+          <input type="radio" name="Division" value="wrong">
+          4001<br/>
+          <input type="radio" name="Division" value="wrong">
+          I Don't Know<br/>
       </fieldset>
 </form>
 
