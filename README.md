@@ -44,7 +44,10 @@
             <legend><h3>Writing Portion</h3></legend>
             <p>How much wood could a woodchuck chuck if a woodchuck could chuck wood?</p><br/>
             <p>Please write in full 3-5 sentences.</p>
-            <textarea></textarea>
+            <textarea></textarea><br/>
+            <!--End of test-->
+             <input type="submit">
+  <br/>
         </fieldset>
     </form>
 
