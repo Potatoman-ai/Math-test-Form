@@ -4,11 +4,8 @@
 <form>
     Name:<br/>
     <input type="text"
-        placeholder="Name Here">
+    placeholder="Name Here">
 </form>
-      
-      
-      
 <form>
       <fieldset>
           <legend><h3>Math Test</h3></legend>
