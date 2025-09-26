@@ -1,5 +1,5 @@
 # Math-test-Form
-<!DOCTYPE html>
+
 <html lang="en-US">
 <form>
     Name:<br/>
