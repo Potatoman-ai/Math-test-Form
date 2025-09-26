@@ -3,7 +3,8 @@
 <html lang="en-US">
 <form>
     Name:<br/>
-    <input type="text">
+    <input type="text"
+        placeholder="Name Here">
 </form>
       
       
