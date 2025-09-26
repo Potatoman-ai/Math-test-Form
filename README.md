@@ -22,13 +22,13 @@
      <form>
           <hr/>
           <p>What is &radic;4?</p>
-          <input type="radio" name="Math" value="correct">
+          <input type="radio" name="&radic;" value="correct">
         2<br/>
-    <input type="radio" name="Math" value="wrong">
+    <input type="radio" name="&radic;" value="wrong">
         1231<br/>
-    <input type="radio" name="Math" value="wrong">
+    <input type="radio" name="&radic;" value="wrong">
         8<br/>
-    <input type="radio" name="Math" value="wrong">
+    <input type="radio" name="&radic;" value="wrong">
     18468463<br/>
       </fieldset>
 </form>
