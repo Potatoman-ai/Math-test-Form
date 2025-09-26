@@ -16,7 +16,6 @@
         8<br/>
     <input type="radio" name="Math" value="wrong">
     18468463<br/>
-          <hr/>
           <p>What is &radic;4?</p>
           <input type="radio" name="&radic;" value="correct">
         2<br/>
